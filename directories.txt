@@ -1,0 +1,34 @@
+/
+├─ stages/                       # programs grouped by game-progression (fully developed programs per stage)
+│  ├─ 00-start/                  # starting-stage programs (very limited resources)
+│  │  └─ README.md
+│  ├─ 10-early/                  # early-game (basic farms, simple automation)
+│  │  └─ README.md
+│  ├─ 20-pre-ender/              # before ender pearls
+│  │  └─ README.md
+│  ├─ 30-post-ender-pre-nether/
+│  │  └─ README.md
+│  └─ 40-late-game/              # nether/late-game automation
+│     └─ README.md
+│
+├─ worlds/                      # per-world deployments and turtle/computer inventories
+│  ├─ world-name-1/
+│  │  ├─ lumberjack/            # one directory per turtle role/type
+│  │  ├─ miner/
+│  │  ├─ smelter/
+│  │  ├─ builder/
+│  │  ├─ configs/               # per-world config files (channels, modem addrs, fuel thresholds)
+│  │  └─ README.md
+│  └─ world-name-2/
+│     └─ ...
+│
+├─ library/ (or lib/)           # reusable libraries shared across stages/worlds
+│
+├─ util/                        # utility scripts and tools 
+│
+├─ testing/                     # code that tests ideas, answers questions.
+│
+├─ templates/                   # program/turtle config templates (startup, label, wifi)
+├─ notes/                       # design notes, 
+└─ README.md
+
