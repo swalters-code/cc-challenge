@@ -1,0 +1,6 @@
+Test 1 (100 turns): 39.65 seconds
+Test 2 (forward/back repeats): 80 seconds
+Test 3 (2x2 square 100x): 480 seconds
+Test 4 (3x3 square 100x): 640 seconds
+Test 5 (4x4 square 100x): 800 seconds
+Test 6 (forward 10, 180 turn, 10x): 48 seconds

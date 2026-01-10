@@ -1,0 +1,18 @@
+          potion = "minecraft:strong_healing"
+        }
+      },
+      count = 1,
+      id = "minecraft:splash_potion"
+    },
+    {
+      Slot = 3,
+      count = 1,
+      id = "minecraft:glowstone_dust"
+    },
+    {
+      Slot = 4,
+      count = 31,
+      id = "minecraft:blaze_powder"
+    }
+  }
+}

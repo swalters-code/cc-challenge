@@ -1,0 +1,35 @@
+=== RESOURCE CAPACITY SCAN ===
+Time: 333.75
+Found 6 roost/feeder buffers.
+--------------------------------------------------
+ANALYZING: Uraninite
+  Drawer (functionalstorage:ender_drawer_3): 8192 / 8192
+  Buffers (Roosts/Feeders): 96 / 128
+  >> TOTAL: 8288 / 8320
+  >> PERCENT: 99.62%
+--------------------------------------------------
+ANALYZING: Coal
+  Drawer (functionalstorage:ender_drawer_4): 8191 / 8192
+  Buffers (Roosts/Feeders): 13 / 64
+  >> TOTAL: 8204 / 8256
+  >> PERCENT: 99.37%
+--------------------------------------------------
+ANALYZING: Redstone
+  Drawer (functionalstorage:ender_drawer_1): 8192 / 8192
+  Buffers (Roosts/Feeders): 58 / 64
+  >> TOTAL: 8250 / 8256
+  >> PERCENT: 99.93%
+--------------------------------------------------
+ANALYZING: Snowballs
+  Drawer (functionalstorage:ender_drawer_0): 8192 / 8192
+  Buffers (Roosts/Feeders): 55 / 64
+  >> TOTAL: 8247 / 8256
+  >> PERCENT: 99.89%
+--------------------------------------------------
+ANALYZING: Seeds
+  Drawer (functionalstorage:ender_drawer_2): 8192 / 2147491839
+  Buffers (Roosts/Feeders): 3776 / 5666
+  >> TOTAL: 11968 / 2147497505
+  >> PERCENT: 0.00%
+--------------------------------------------------
+=== SCAN COMPLETE ===

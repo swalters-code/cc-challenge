@@ -1,0 +1,4 @@
+top: minecraft:chest
+back: modem
+minecraft:brewing_stand_1: minecraft:brewing_stand
+minecraft:chest_0: minecraft:chest

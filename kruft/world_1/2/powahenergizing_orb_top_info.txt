@@ -1,0 +1,58 @@
+=== Peripheral Information ===
+Type: powah:energizing_orb
+Direction: top
+Time: 2025-11-28 02:27:41
+
+=== Available Methods ===
+Total methods: 6
+
+1. size
+2. getItemDetail
+3. pullItems
+4. list
+5. getItemLimit
+6. pushItems
+
+=== Method Details ===
+
+Method: size
+  Result: 7
+
+Method: getItemDetail
+
+Method: pullItems
+
+Method: list
+  Inventory contents:
+    Slot 2:
+      Name: minecraft:white_dye
+      Count: 1
+      Max: unknown
+    Slot 3:
+      Name: minecraft:light_gray_dye
+      Count: 1
+      Max: unknown
+    Slot 4:
+      Name: minecraft:gray_dye
+      Count: 1
+      Max: unknown
+    Slot 5:
+      Name: minecraft:black_dye
+      Count: 1
+      Max: unknown
+    Slot 6:
+      Name: minecraft:brown_dye
+      Count: 1
+      Max: unknown
+    Slot 7:
+      Name: minecraft:red_dye
+      Count: 1
+      Max: unknown
+
+Method: getItemLimit
+
+Method: pushItems
+
+=== Detailed Slot Inspection ===
+Inventory size: 7
+

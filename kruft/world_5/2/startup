@@ -1,0 +1,30 @@
+--This is an auto-generated startup
+--Made by civilwargeeky's Variable Size Quarry
+print("Now Resuming Quarry")
+print("Press any key to quit. You have 5 seconds.")
+sleep(1)
+function deleteStuff()
+  fs.delete("startup")
+  if fs.exists("oldStartup.quarry") then
+    fs.move("oldStartup.quarry","startup")
+  end
+end
+local event
+if fs.exists("Civil_Quarry_Restore") then
+  for i=5,1,-1 do
+    print(i)
+    os.startTimer(1)
+    event = os.pullEvent()
+    if event == "key" then break end
+  end
+  if event == "timer" then
+    os.run({},"otherQuarry.lua","-resume")
+  else
+
+    deleteStuff()
+  end
+else
+  print("Never mind, no save file found")
+  deleteStuff()
+end
+  

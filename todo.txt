@@ -1,0 +1,7 @@
+* Write a drop-in turtle library
+  - track movement
+  - Use gps if available.
+* Write a inventory utility library.
+  - arrangeInv -- given a function that takes an item detail record and returns a slot, arranges those by 
+  - sortInv  -- arrange the inventory by a specific comparator
+  - findItem -- returns the slot an item resides in.

@@ -1,0 +1,53 @@
+=== Peripheral Information ===
+Type: powah:reactor
+Direction: top
+Time: 2025-11-29 23:56:25
+
+=== Available Methods ===
+Total methods: 11
+
+1. getEnergy
+2. size
+3. getItemDetail
+4. pullFluid
+5. tanks
+6. pullItems
+7. pushFluid
+8. list
+9. pushItems
+10. getItemLimit
+11. getEnergyCapacity
+
+=== Method Details ===
+
+Method: getEnergy
+
+Method: size
+  Result: 5
+
+Method: getItemDetail
+
+Method: pullFluid
+
+Method: tanks
+
+Method: pullItems
+
+Method: pushFluid
+
+Method: list
+  Inventory contents:
+    Slot 5:
+      Name: minecraft:snowball
+      Count: 63
+      Max: unknown
+
+Method: pushItems
+
+Method: getItemLimit
+
+Method: getEnergyCapacity
+
+=== Detailed Slot Inspection ===
+Inventory size: 5
+

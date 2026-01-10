@@ -1,0 +1,11 @@
+{
+  state = {},
+  name = "productivetrees:sawmill",
+  tags = {
+    [ "oritech:mineable/drill" ] = true,
+    [ "c:mineable/paxel" ] = true,
+    [ "cucumber:mineable/paxel" ] = true,
+    [ "twilightforest:mineable_with_block_and_chain" ] = true,
+    [ "minecraft:mineable/pickaxe" ] = true,
+  },
+}

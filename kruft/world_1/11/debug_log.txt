@@ -1,0 +1,89 @@
+=== STARTING DIAGNOSTIC SCAN ===
+Time: 94.55
+Found 14 total peripherals.
+--------------------------------------------------
+Scanning: chicken_roost:roost_1 [chicken_roost:roost]
+  Slot 1: 64x chicken_roost:chicken_food_tier_8
+  Slot 2: 1x chicken_roost:c_uranium
+  Slot 3: 38x ftbmaterials:uranium_ingot
+--------------------------------------------------
+Scanning: chicken_roost:roost_2 [chicken_roost:roost]
+  Slot 1: 64x chicken_roost:chicken_food_tier_8
+  Slot 2: 1x chicken_roost:c_uranium
+  Slot 3: 15x ftbmaterials:uranium_ingot
+--------------------------------------------------
+Scanning: chicken_roost:roost_3 [chicken_roost:roost]
+  Slot 1: 64x chicken_roost:chicken_food_tier_8
+  Slot 2: 1x chicken_roost:c_redstone
+  Slot 3: 42x minecraft:redstone
+--------------------------------------------------
+Scanning: chicken_roost:feeder_0 [chicken_roost:feeder]
+  Slot 1: 64x chicken_roost:chicken_food_tier_8
+  Slot 2: 64x chicken_roost:chicken_food_tier_8
+  Slot 3: 64x chicken_roost:chicken_food_tier_8
+  Slot 4: 64x chicken_roost:chicken_food_tier_8
+  Slot 5: 64x chicken_roost:chicken_food_tier_8
+  Slot 6: 64x chicken_roost:chicken_food_tier_8
+  Slot 7: 64x chicken_roost:chicken_food_tier_8
+  Slot 8: 64x chicken_roost:chicken_food_tier_8
+  Slot 9: 64x chicken_roost:chicken_food_tier_8
+  Slot 10: 64x chicken_roost:chicken_food_tier_8
+  Slot 11: 64x chicken_roost:chicken_food_tier_8
+  Slot 12: 64x chicken_roost:chicken_food_tier_8
+  Slot 13: 64x chicken_roost:chicken_food_tier_8
+  Slot 14: 64x chicken_roost:chicken_food_tier_8
+  Slot 15: 64x chicken_roost:chicken_food_tier_8
+  Slot 16: 64x chicken_roost:chicken_food_tier_8
+  Slot 17: 64x chicken_roost:chicken_food_tier_8
+  Slot 18: 64x chicken_roost:chicken_food_tier_8
+  Slot 19: 64x chicken_roost:chicken_food_tier_8
+  Slot 20: 64x chicken_roost:chicken_food_tier_8
+  Slot 21: 64x chicken_roost:chicken_food_tier_8
+  Slot 22: 64x chicken_roost:chicken_food_tier_8
+  Slot 23: 64x chicken_roost:chicken_food_tier_8
+  Slot 24: 64x chicken_roost:chicken_food_tier_8
+  Slot 25: 64x chicken_roost:chicken_food_tier_8
+  Slot 26: 64x chicken_roost:chicken_food_tier_8
+  Slot 27: 64x chicken_roost:chicken_food_tier_8
+  Slot 28: 64x chicken_roost:chicken_food_tier_8
+  Slot 29: 64x chicken_roost:chicken_food_tier_8
+  Slot 30: 64x chicken_roost:chicken_food_tier_8
+  Slot 31: 64x chicken_roost:chicken_food_tier_8
+  Slot 32: 64x chicken_roost:chicken_food_tier_8
+  Slot 33: 64x chicken_roost:chicken_food_tier_8
+  Slot 34: 64x chicken_roost:chicken_food_tier_8
+  Slot 35: 64x chicken_roost:chicken_food_tier_8
+  Slot 36: 64x chicken_roost:chicken_food_tier_8
+  Slot 37: 64x chicken_roost:chicken_food_tier_8
+  Slot 38: 64x chicken_roost:chicken_food_tier_8
+  Slot 39: 64x chicken_roost:chicken_food_tier_8
+  Slot 40: 64x chicken_roost:chicken_food_tier_8
+  Slot 41: 64x chicken_roost:chicken_food_tier_8
+  Slot 42: 64x chicken_roost:chicken_food_tier_8
+  Slot 43: 64x chicken_roost:chicken_food_tier_8
+  Slot 44: 64x chicken_roost:chicken_food_tier_8
+  Slot 45: 64x chicken_roost:chicken_food_tier_8
+  Slot 46: 64x chicken_roost:chicken_food_tier_8
+  Slot 47: 64x chicken_roost:chicken_food_tier_8
+  Slot 48: 64x chicken_roost:chicken_food_tier_8
+  Slot 49: 64x chicken_roost:chicken_food_tier_8
+  Slot 50: 64x chicken_roost:chicken_food_tier_8
+  Slot 51: 64x chicken_roost:chicken_food_tier_8
+  Slot 52: 64x chicken_roost:chicken_food_tier_8
+  Slot 53: 64x chicken_roost:chicken_food_tier_8
+  Slot 54: 64x chicken_roost:chicken_food_tier_8
+--------------------------------------------------
+Scanning: functionalstorage:ender_drawer_2 [functionalstorage:ender_drawer]
+  Slot 1: 8191x chicken_roost:chicken_food_tier_8
+--------------------------------------------------
+Scanning: chicken_roost:roost_4 [chicken_roost:roost]
+  Slot 1: 64x chicken_roost:chicken_food_tier_8
+  Slot 2: 1x chicken_roost:c_snow
+  Slot 3: 64x minecraft:snowball
+--------------------------------------------------
+Scanning: chicken_roost:roost_0 [chicken_roost:roost]
+  Slot 1: 64x chicken_roost:chicken_food_tier_8
+  Slot 2: 1x chicken_roost:c_coal
+  Slot 3: 36x minecraft:coal
+--------------------------------------------------
+=== SCAN COMPLETE ===

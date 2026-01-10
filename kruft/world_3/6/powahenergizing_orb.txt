@@ -1,0 +1,41 @@
+{
+  inventory = {
+    slots = {
+      {
+        contents = {
+          name = "powah:niotic_crystal_block",
+          itemGroups = {
+            {
+              id = "powah:tab",
+              displayName = "Powah",
+            },
+          },
+          tags = {},
+          count = 1,
+          maxCount = 64,
+          displayName = "Block Of Niotic Crystal",
+        },
+        slot = 1,
+      },
+    },
+    size = 7,
+  },
+  type = "powah:energizing_orb",
+  side = "top",
+  keys = {
+    "pullItems",
+    "getItemDetail",
+    "list",
+    "getItemLimit",
+    "pushItems",
+    "size",
+  },
+  methods = {
+    "size",
+    "getItemDetail",
+    "pullItems",
+    "list",
+    "getItemLimit",
+    "pushItems",
+  },
+}

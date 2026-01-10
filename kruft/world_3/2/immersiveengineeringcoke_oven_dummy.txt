@@ -1,0 +1,65 @@
+{
+  inventory = {
+    slots = {
+      {
+        contents = {
+          name = "minecraft:coal_block",
+          itemGroups = {
+            {
+              id = "minecraft:building_blocks",
+              displayName = "Building Blocks",
+            },
+          },
+          tags = {
+            [ "c:storage_blocks/coal" ] = true,
+            [ "c:storage_blocks" ] = true,
+            [ "chipped:coal_block" ] = true,
+            [ "malum:prospectors_treasure" ] = true,
+            [ "projecte:collector_fuel" ] = true,
+          },
+          count = 48,
+          maxCount = 64,
+          displayName = "Block of Coal",
+        },
+        slot = 1,
+      },
+      {
+        contents = {
+          tags = {},
+          name = "mekanism:basic_fluid_tank",
+          itemGroups = {},
+          maxCount = 64,
+          count = 1,
+          nbt = "a6c21a0fce2f46230f5f54431e9a4add",
+          displayName = "Basic Fluid Tank",
+        },
+        slot = 3,
+      },
+    },
+    size = 4,
+  },
+  type = "immersiveengineering:coke_oven_dummy",
+  side = "back",
+  keys = {
+    "tanks",
+    "pullFluid",
+    "getItemLimit",
+    "pullItems",
+    "list",
+    "pushItems",
+    "getItemDetail",
+    "pushFluid",
+    "size",
+  },
+  methods = {
+    "size",
+    "getItemDetail",
+    "pullFluid",
+    "tanks",
+    "pullItems",
+    "pushFluid",
+    "list",
+    "pushItems",
+    "getItemLimit",
+  },
+}

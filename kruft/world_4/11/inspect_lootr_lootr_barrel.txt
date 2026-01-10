@@ -1,0 +1,21 @@
+{
+  state = {
+    open = false,
+    facing = "north",
+  },
+  name = "lootr:lootr_barrel",
+  tags = {
+    [ "twilightforest:mineable_with_block_and_chain" ] = true,
+    [ "lootr:containers" ] = true,
+    [ "cucumber:mineable/paxel" ] = true,
+    [ "lootr:convert/blocks" ] = true,
+    [ "minecraft:mineable/axe" ] = true,
+    [ "lootr:barrels" ] = true,
+    [ "minecraft:guarded_by_piglins" ] = true,
+    [ "c:mineable/paxel" ] = true,
+    [ "lootr:convert/barrels" ] = true,
+    [ "create:single_block_inventories" ] = true,
+    [ "c:barrels" ] = true,
+    [ "irons_spellbooks:guarded_by_wizards" ] = true,
+  },
+}

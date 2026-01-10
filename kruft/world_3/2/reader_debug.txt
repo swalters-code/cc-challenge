@@ -1,0 +1,56 @@
+{
+  scanned = {
+    "back",
+  },
+  peripherals = {
+    {
+      type = "block_reader",
+      id = "back",
+      wrapped = true,
+      methodResults = {
+        isTileEntity = {
+          ok = true,
+          result = true,
+        },
+        getConfiguration = {
+          ok = true,
+          result = {},
+        },
+        getBlockName = {
+          ok = true,
+          result = "immersiveengineering:coke_oven",
+        },
+        getBlockData = {
+          ok = true,
+          result = {
+            posInMB = {
+              0,
+              2,
+              1,
+            },
+          },
+        },
+        getName = {
+          ok = true,
+          result = "Block Reader",
+        },
+        getBlockStates = {
+          ok = true,
+          result = {
+            facing = "north",
+            active = true,
+            multiblockslave = true,
+          },
+        },
+      },
+      methods = {
+        "isTileEntity",
+        "getName",
+        "getConfiguration",
+        "getBlockStates",
+        "getBlockData",
+        "getBlockName",
+      },
+    },
+  },
+}

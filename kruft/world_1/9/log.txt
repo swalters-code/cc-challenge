@@ -1,0 +1,18 @@
+=== Peripheral Details ===
+
+Name: actuallyadditions:display_stand_1
+Type: actuallyadditions:display_stand
+
+Available Methods:
+  - getEnergy()
+  - getEnergyCapacity()
+  - getItemDetail()
+  - getItemLimit()
+  - list()
+  - pullItems()
+  - pushItems()
+  - size()
+
+Additional Info:
+  Inventory Size: 1
+  Energy: 80000 / 80000

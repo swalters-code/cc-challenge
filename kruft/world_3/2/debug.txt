@@ -1,0 +1,270 @@
+{
+  peripherals = {
+    {
+      id = "front",
+      inventory = {
+        list = {
+          {
+            count = 45,
+            name = "minecraft:coal_block"
+          },
+          {
+            count = 1,
+            name = "ftbmaterials:coal_coke_block"
+          },
+          {
+            count = 1,
+            name = "mekanism:basic_fluid_tank",
+            nbt = "38ab1d456481bd886cc7262d101ae1cb"
+          }
+        },
+        size = 4,
+        slots = {
+          {
+            count = 45,
+            displayName = "Block of Coal",
+            itemGroups = {
+              {
+                displayName = "Building Blocks",
+                id = "minecraft:building_blocks"
+              }
+            },
+            maxCount = 64,
+            name = "minecraft:coal_block",
+            tags = {
+              ["c:storage_blocks"] = true,
+              ["c:storage_blocks/coal"] = true,
+              ["chipped:coal_block"] = true,
+              ["malum:prospectors_treasure"] = true,
+              ["projecte:collector_fuel"] = true
+            }
+          },
+          {
+            count = 1,
+            displayName = "Block of Coal Coke",
+            itemGroups = {
+              {
+                displayName = "FTB Materials",
+                id = "ftbmaterials:tab"
+              }
+            },
+            maxCount = 64,
+            name = "ftbmaterials:coal_coke_block",
+            tags = {
+              ["c:storage_blocks"] = true,
+              ["c:storage_blocks/coal_coke"] = true,
+              ["c:storage_blocks/coke"] = true,
+              ["malum:prospectors_treasure"] = true
+            }
+          },
+          {
+            count = 1,
+            displayName = "Basic Fluid Tank",
+            itemGroups = {
+            },
+            maxCount = 64,
+            name = "mekanism:basic_fluid_tank",
+            nbt = "38ab1d456481bd886cc7262d101ae1cb",
+            tags = {
+            }
+          },
+          {
+            __error = "nil"
+          }
+        }
+      },
+      methodCalls = {
+        getItemDetail = {
+          error = "bad argument #1 (number expected, got nil)",
+          ok = false
+        },
+        getItemLimit = {
+          error = "bad argument #1 (number expected, got nil)",
+          ok = false
+        },
+        list = {
+          ok = true,
+          result = {
+            {
+              count = 45,
+              name = "minecraft:coal_block"
+            },
+            {
+              count = 1,
+              name = "ftbmaterials:coal_coke_block"
+            },
+            {
+              count = 1,
+              name = "mekanism:basic_fluid_tank",
+              nbt = "38ab1d456481bd886cc7262d101ae1cb"
+            }
+          }
+        },
+        pullFluid = {
+          error = "bad argument #1 (string expected, got nil)",
+          ok = false
+        },
+        pullFluid_probe_no_args = {
+          error = "bad argument #1 (string expected, got nil)",
+          ok = false
+        },
+        pullItems = {
+          error = "bad argument #1 (string expected, got nil)",
+          ok = false
+        },
+        pullItems_probe_no_args = {
+          error = "bad argument #1 (string expected, got nil)",
+          ok = false
+        },
+        pushFluid = {
+          error = "bad argument #1 (string expected, got nil)",
+          ok = false
+        },
+        pushFluid_probe_no_args = {
+          error = "bad argument #1 (string expected, got nil)",
+          ok = false
+        },
+        pushItems = {
+          error = "bad argument #1 (string expected, got nil)",
+          ok = false
+        },
+        pushItems_probe_no_args = {
+          error = "bad argument #1 (string expected, got nil)",
+          ok = false
+        },
+        size = {
+          ok = true,
+          result = 4
+        },
+        tanks = {
+          ok = true,
+          result = {
+          }
+        }
+      },
+      methods = {
+        "size",
+        "getItemDetail",
+        "pullFluid",
+        "tanks",
+        "pullItems",
+        "pushFluid",
+        "list",
+        "pushItems",
+        "getItemLimit"
+      },
+      tanks = {
+        ok = true,
+        result = {
+        }
+      },
+      type = "immersiveengineering:coke_oven_dummy",
+      wrapped = true
+    },
+    {
+      id = "left",
+      methodCalls = {
+        getBlockData = {
+          ok = true,
+          result = {
+            posInMB = {
+              2,
+              2,
+              2
+            }
+          }
+        },
+        getBlockName = {
+          ok = true,
+          result = "immersiveengineering:coke_oven"
+        },
+        getBlockStates = {
+          ok = true,
+          result = {
+            active = true,
+            facing = "north",
+            multiblockslave = true
+          }
+        },
+        getConfiguration = {
+          ok = true,
+          result = {
+          }
+        },
+        getName = {
+          ok = true,
+          result = "Block Reader"
+        },
+        isTileEntity = {
+          ok = true,
+          result = true
+        }
+      },
+      methods = {
+        "isTileEntity",
+        "getName",
+        "getConfiguration",
+        "getBlockStates",
+        "getBlockData",
+        "getBlockName"
+      },
+      type = "block_reader",
+      wrapped = true
+    }
+  },
+  reader = {
+    calls = {
+      getBlockData = {
+        ok = true,
+        result = {
+          posInMB = {
+            2,
+            2,
+            2
+          }
+        }
+      },
+      getBlockName = {
+        ok = true,
+        result = "immersiveengineering:coke_oven"
+      },
+      getBlockStates = {
+        ok = true,
+        result = {
+          active = true,
+          facing = "north",
+          multiblockslave = true
+        }
+      },
+      getConfiguration = {
+        ok = true,
+        result = {
+        }
+      },
+      getName = {
+        ok = true,
+        result = "Block Reader"
+      },
+      isTileEntity = {
+        ok = true,
+        result = true
+      }
+    },
+    correspondingPeripheral = "<REF:44>",
+    id = "left",
+    methods = {
+      "isTileEntity",
+      "getName",
+      "getConfiguration",
+      "getBlockStates",
+      "getBlockData",
+      "getBlockName"
+    },
+    type = "block_reader",
+    wrapped = true
+  },
+  scanned = {
+    "front",
+    "left"
+  }
+}

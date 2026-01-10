@@ -1,0 +1,97 @@
+=== Peripheral Information ===
+Type: custommachinery:custom_machine_tile
+Direction: back
+Time: 2025-11-27 17:12:34
+
+=== Available Methods ===
+Total methods: 11
+
+1. getEnergy
+2. size
+3. getItemDetail
+4. pullFluid
+5. tanks
+6. pullItems
+7. pushFluid
+8. list
+9. getItemLimit
+10. pushItems
+11. getEnergyCapacity
+
+=== Method Details ===
+
+Method: getEnergy
+
+Method: size
+  Result: 12
+
+Method: getItemDetail
+
+Method: pullFluid
+
+Method: tanks
+
+Method: pullItems
+
+Method: pushFluid
+
+Method: list
+  Inventory contents:
+    Slot 1:
+      Name: minecraft:redstone
+      Count: 64
+      Max: unknown
+    Slot 2:
+      Name: ae2:sky_dust
+      Count: 64
+      Max: unknown
+    Slot 3:
+      Name: ae2:sky_dust
+      Count: 64
+      Max: unknown
+    Slot 4:
+      Name: minecraft:redstone
+      Count: 64
+      Max: unknown
+    Slot 5:
+      Name: ae2:sky_dust
+      Count: 50
+      Max: unknown
+    Slot 6:
+      Name: minecraft:redstone
+      Count: 50
+      Max: unknown
+    Slot 7:
+      Name: fluxnetworks:flux_dust
+      Count: 64
+      Max: unknown
+    Slot 8:
+      Name: fluxnetworks:flux_dust
+      Count: 64
+      Max: unknown
+    Slot 9:
+      Name: fluxnetworks:flux_dust
+      Count: 64
+      Max: unknown
+    Slot 10:
+      Name: fluxnetworks:flux_dust
+      Count: 64
+      Max: unknown
+    Slot 11:
+      Name: fluxnetworks:flux_dust
+      Count: 64
+      Max: unknown
+    Slot 12:
+      Name: fluxnetworks:flux_dust
+      Count: 64
+      Max: unknown
+
+Method: getItemLimit
+
+Method: pushItems
+
+Method: getEnergyCapacity
+
+=== Detailed Slot Inspection ===
+Inventory size: 12
+

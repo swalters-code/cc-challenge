@@ -1,0 +1,1 @@
+-- -*- mode: lua-ts; lua-ts-indent-offset: 2; fill-column: 51; -*-

@@ -1,0 +1,17 @@
+=== Peripheral Information ===
+Type: fluxnetworks:flux_plug
+Direction: back
+Time: 2025-11-30 11:51:25
+
+=== Available Methods ===
+Total methods: 2
+
+1. getEnergy
+2. getEnergyCapacity
+
+=== Method Details ===
+
+Method: getEnergy
+
+Method: getEnergyCapacity
+

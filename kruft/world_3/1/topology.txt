@@ -1,0 +1,70 @@
+=== INVENTORY TOPOLOGY SCAN ===
+2025-12-06 01:49:42
+
+Peripheral: ironchest:diamond_chest_0
+    Type: ironchest:diamond_chest
+
+Peripheral: ironchest:diamond_chest_1
+    Type: ironchest:diamond_chest
+
+Peripheral: ironchest:iron_chest_2
+    Type: ironchest:iron_chest
+
+Peripheral: ironchest:obsidian_chest_2
+    Type: ironchest:obsidian_chest
+
+Peripheral: minecraft:crafter_2
+    Type: minecraft:crafter
+
+Peripheral: minecraft:crafter_1
+    Type: minecraft:crafter
+
+Peripheral: ironchest:diamond_chest_6
+    Type: ironchest:diamond_chest
+
+Peripheral: ironchest:diamond_chest_14
+    Type: ironchest:diamond_chest
+
+Peripheral: ironchest:diamond_chest_7
+    Type: ironchest:diamond_chest
+
+Peripheral: ironchest:diamond_chest_13
+    Type: ironchest:diamond_chest
+
+Peripheral: ironchest:diamond_chest_8
+    Type: ironchest:diamond_chest
+
+Peripheral: ironchest:diamond_chest_15
+    Type: ironchest:diamond_chest
+
+Peripheral: ironchest:diamond_chest_9
+    Type: ironchest:diamond_chest
+
+Peripheral: ironchest:diamond_chest_2
+    Type: ironchest:diamond_chest
+
+Peripheral: ironchest:diamond_chest_10
+    Type: ironchest:diamond_chest
+
+Peripheral: ironchest:diamond_chest_3
+    Type: ironchest:diamond_chest
+
+Peripheral: ironchest:diamond_chest_4
+    Type: ironchest:diamond_chest
+
+Peripheral: ironchest:diamond_chest_12
+    Type: ironchest:diamond_chest
+
+Peripheral: ironchest:diamond_chest_5
+    Type: ironchest:diamond_chest
+
+Peripheral: ironchest:diamond_chest_11
+    Type: ironchest:diamond_chest
+
+Peripheral: right
+    Type: minecraft:crafter
+
+Peripheral: left
+    Type: minecraft:crafter
+
+Found 22 inventory peripheral(s) on the network.

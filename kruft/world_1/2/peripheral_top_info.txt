@@ -1,0 +1,35 @@
+Peripheral side: top
+Type: minecraft:brewing_stand
+
+Methods:
+- size
+- getItemDetail
+- pullItems
+- list
+- getItemLimit
+- pushItems
+
+list() output:
+1: {
+  nbt = "93f331a7e08c65fe7ef7118585f5291a",
+  count = 1,
+  name = "minecraft:potion",
+}
+2: {
+  nbt = "0980a2b7d3a4555b62c3d1b8b479e823",
+  count = 1,
+  name = "minecraft:potion",
+}
+3: {
+  nbt = "2852902854bb56c27256305181c2c387",
+  count = 1,
+  name = "minecraft:potion",
+}
+4: {
+  name = "minecraft:redstone",
+  count = 1,
+}
+5: {
+  name = "minecraft:blaze_powder",
+  count = 63,
+}

@@ -1,0 +1,3 @@
+{
+  [ "motd.path" ] = "/motd.txt",
+}

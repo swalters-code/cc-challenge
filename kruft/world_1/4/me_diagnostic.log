@@ -1,0 +1,19 @@
+=== Backpack pushItems Test ===
+=== Backpack pushItems Test ===
+Date: Wed Nov 26 23:13:49 2025
+ME Bridge: me_bridge_2
+Backpack: top
+
+--- Initial State ---
+Backpack slot 1: minecraft:brick x32
+Could not get brick count from ME: table: 7e1b717b
+
+--- Test: pushItems to ME Bridge ---
+Attempting: inventory.pushItems('me_bridge_2', 1, 1)
+Success: false
+Returned: Target 'me_bridge_2' does not exist
+Backpack before: 32 | after: 32
+Items moved: 0
+Could not get brick count after: table: 5819cb5
+
+=== Test Complete ===

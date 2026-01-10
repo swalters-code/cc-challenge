@@ -1,0 +1,8 @@
+{
+  state = {
+    direction = 0,
+    node = "idle",
+    prevNode = "return_suck_home",
+  },
+  [ "motd.path" ] = "/motd.txt",
+}

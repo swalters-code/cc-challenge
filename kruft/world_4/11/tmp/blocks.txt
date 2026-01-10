@@ -1,0 +1,41 @@
+
+=== Mining Run: 2025-12-31 15:25:17 ===
+Distance: 60 blocks
+Time: 108.86 seconds
+Total blocks: 120
+Blocks mined:
+  119x minecraft:deepslate
+  1x mekanism:deepslate_fluorite_ore
+
+=== Mining Run: 2025-12-31 15:29:10 ===
+Distance: 60 blocks
+Time: 108.87 seconds
+Total blocks: 120
+Blocks mined:
+  113x minecraft:deepslate
+  4x minecraft:gravel
+  2x minecraft:smooth_basalt
+  1x mekanism:deepslate_osmium_ore
+
+=== Mining Run: 2025-12-31 15:33:35 ===
+Distance: 60 blocks
+Time: 101.54 seconds
+Total blocks: 120
+Blocks mined:
+  57x minecraft:stone
+  32x minecraft:gravel
+  21x minecraft:diorite
+  7x minecraft:dirt
+  2x minecraft:copper_ore
+  1x minecraft:granite
+
+=== Mining Run: 2025-12-31 15:36:21 ===
+Distance: 60 blocks
+Time: 108.86 seconds
+Total blocks: 120
+Blocks mined:
+  87x minecraft:stone
+  20x minecraft:diorite
+  6x minecraft:andesite
+  5x mekanism:tin_ore
+  2x minecraft:gravel

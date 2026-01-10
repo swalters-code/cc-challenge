@@ -1,0 +1,32 @@
+{
+  reader = {
+    type = "block_reader",
+    side = "front",
+    methods = {
+      "isTileEntity",
+      "getName",
+      "getConfiguration",
+      "getBlockStates",
+      "getBlockData",
+      "getBlockName",
+    },
+  },
+  results = {
+    isTileEntity = true,
+    getConfiguration = {},
+    getBlockName = "immersiveengineering:coke_oven",
+    getBlockData = {
+      posInMB = {
+        1,
+        1,
+        2,
+      },
+    },
+    getName = "Block Reader",
+    getBlockStates = {
+      facing = "north",
+      active = true,
+      multiblockslave = true,
+    },
+  },
+}

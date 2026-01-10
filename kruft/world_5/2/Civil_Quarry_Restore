@@ -1,0 +1,199 @@
+doRefuel = true
+dumpCompareItems = false
+attacked = 0
+startupName = "startup"
+initialCount = 1
+neededFuel = 47304
+oreQuarry = false
+keepOpen = 1
+gpsEnabled = false
+facing = 2
+logFolder = "Quarry_Logs"
+autoResume = true
+relxPos = 26
+fuelChestSlot = 15
+gpsTimeout = 3
+logExtension = ""
+rowCheck = false
+startDown = 0
+rednetEnabled = false
+selectedSlot = 1
+dropSide = "front"
+exclusions = {
+  modem = true,
+}
+flatBedrock = false
+layers = 27
+logging = true
+percent = 83
+allowedItems = {
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+}
+isInPath = true
+channels = {
+  receive = 103,
+  send = 3,
+  fingerprint = "quarry",
+  message = "Civil's Quarry",
+  confirm = "Turtle Quarry Receiver",
+}
+oldOreQuarry = false
+maxTries = 50
+dumpSlots = {
+  true,
+  false,
+  false,
+  false,
+  false,
+  false,
+  false,
+  false,
+  false,
+  false,
+  false,
+  false,
+  false,
+  false,
+  false,
+  false,
+}
+gotoDest = ""
+zPos = 12
+yPos = 68
+excessFuelAmount = inf
+oreQuarryBlacklistName = "oreQuarryBlacklist.txt"
+totals = {
+  other = 21829,
+  fuel = 39,
+  cobble = 30598,
+}
+numResumed = 2
+enderChestSlot = 16
+saveFile = "Civil_Quarry_Restore"
+y = 80
+x = 32
+numDropOffs = 96
+z = 32
+originalFuel = 75454
+mined = 52678
+enderChestEnabled = false
+relzPos = 12
+compareSlots = {}
+quadTimeout = 300
+connected = false
+slot = {
+  {
+    1,
+    64,
+  },
+  {
+    3,
+    57,
+  },
+  {
+    3,
+    5,
+  },
+  {
+    3,
+    12,
+  },
+  {
+    3,
+    2,
+  },
+  {
+    1,
+    64,
+  },
+  {
+    1,
+    64,
+  },
+  {
+    3,
+    1,
+  },
+  {
+    3,
+    2,
+  },
+  {
+    1,
+    64,
+  },
+  {
+    1,
+    64,
+  },
+  {
+    1,
+    64,
+  },
+  {
+    1,
+    64,
+  },
+  {
+    1,
+    64,
+  },
+  {
+    3,
+    2,
+  },
+  {
+    1,
+    2,
+  },
+}
+extraDropItems = false
+startY = 0
+careAboutResources = true
+goLeftNotRight = false
+startupRename = "oldStartup.quarry"
+originalDay = 206
+uniqueExtras = 8
+initialTypes = {
+  1,
+}
+inventoryMax = 16
+doBackup = true
+fuelTable = {
+  moderate = 200,
+  safe = 1000,
+  loose = 0,
+}
+moved = 22908
+doCheckFuel = false
+atChest = false
+chestFull = false
+fuelSafety = "moderate"
+fuelLevel = 58335
+inverted = false
+fuelChestEnabled = false
+xPos = 7
+events = {}
+specialSlots = {
+  enderChest = 0,
+  [ 0 ] = "enderChest",
+}
+quadEnabled = false
+layersDone = 23
+doCheckFuel = false
+fuelLevel = 44251

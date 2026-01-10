@@ -1,0 +1,9 @@
+return {
+  [ "powah:niotic_crystal_block" ] = true,
+  [ "powah:spirited_crystal_block" ] = true,
+  [ "ae2:charged_certus_quartz_crystal" ] = true,
+  [ "powah:blazing_crystal_block" ] = true,
+  [ "powah:energized_steel_block" ] = true,
+  [ "powah:crystal_nitro" ] = true,
+  [ "powah:ender_core" ] = true,
+}

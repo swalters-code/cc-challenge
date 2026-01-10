@@ -1,0 +1,18 @@
+  [modem] back
+  [ironchest:diamond_chest]
+ironchest:diamond_chest_0
+  [actuallyadditions:display_stand]
+actuallyadditions:display_stand_3
+  [modem] front
+  [actuallyadditions:display_stand]
+actuallyadditions:display_stand_1
+  [modem] right
+  [actuallyadditions:display_stand]
+actuallyadditions:display_stand_2
+  [modem] left
+  [actuallyadditions:display_stand]
+actuallyadditions:display_stand_0
+
+Total: 11 peripheral(s)
+
+Tip: Run 'peripherals <name>' for details

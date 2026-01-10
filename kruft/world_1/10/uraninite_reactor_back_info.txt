@@ -1,0 +1,95 @@
+=== Peripheral Information ===
+Type: uraninite_reactor
+Direction: back
+Time: 2025-11-30 11:39:34
+
+=== Available Methods ===
+Total methods: 21
+
+1. list
+2. getUraniniteSlot
+3. getRedstone
+4. getItemLimit
+5. getCarbon
+6. getEnergy
+7. getFuel
+8. size
+9. getStoredEnergy
+10. isRunning
+11. getItemDetail
+12. getRedstoneSlot
+13. pullFluid
+14. tanks
+15. pullItems
+16. pushFluid
+17. getMaxEnergy
+18. getCarbonSlot
+19. getTemperature
+20. pushItems
+21. getEnergyCapacity
+
+=== Method Details ===
+
+Method: list
+  Inventory contents:
+    Slot 2:
+      Name: powah:uraninite
+      Count: 64
+      Max: unknown
+    Slot 3:
+      Name: minecraft:coal
+      Count: 64
+      Max: unknown
+    Slot 4:
+      Name: minecraft:redstone
+      Count: 64
+      Max: unknown
+    Slot 5:
+      Name: minecraft:snowball
+      Count: 64
+      Max: unknown
+
+Method: getUraniniteSlot
+
+Method: getRedstone
+
+Method: getItemLimit
+
+Method: getCarbon
+
+Method: getEnergy
+
+Method: getFuel
+
+Method: size
+  Result: 5
+
+Method: getStoredEnergy
+
+Method: isRunning
+
+Method: getItemDetail
+
+Method: getRedstoneSlot
+
+Method: pullFluid
+
+Method: tanks
+
+Method: pullItems
+
+Method: pushFluid
+
+Method: getMaxEnergy
+
+Method: getCarbonSlot
+
+Method: getTemperature
+
+Method: pushItems
+
+Method: getEnergyCapacity
+
+=== Detailed Slot Inspection ===
+Inventory size: 5
+

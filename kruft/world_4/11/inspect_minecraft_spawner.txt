@@ -1,0 +1,16 @@
+{
+  state = {},
+  name = "minecraft:spawner",
+  tags = {
+    [ "twilightforest:mineable_with_block_and_chain" ] = true,
+    [ "projectvibrantjourneys:groundcover_cannot_generate_on" ] = true,
+    [ "twilightforest:small_lakes_dont_replace" ] = true,
+    [ "cucumber:mineable/paxel" ] = true,
+    [ "minecraft:features_cannot_replace" ] = true,
+    [ "c:mineable/paxel" ] = true,
+    [ "twilightforest:tree_roots_skip" ] = true,
+    [ "oritech:mineable/drill" ] = true,
+    [ "minecraft:lava_pool_stone_cannot_replace" ] = true,
+    [ "minecraft:mineable/pickaxe" ] = true,
+  },
+}

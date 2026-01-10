@@ -1,0 +1,21 @@
+pushItems() Test Report - 2025-12-07 22:33
+
+Source: right (right)
+Target: left (left)
+
+Test                                       Returned   Expected
+----------------------------------------------------------------------
+1. Basic push (auto slot)                  32         (exp: 32)
+2. Partial stack                           10         (exp: 10)
+3. More than exists                        0          (exp: 3)
+4. Dest full same item                     0          (exp: 0)
+5. Fill existing stack                     4          (exp: 14)
+6. Force empty slot                        0          (exp: 5)
+7. Force full wrong slot                   0          (exp: 0)
+8. No limit = whole stack                  0          (exp: 0)
+9. Chest completely full                   0          (exp: 0)
+10. Limit 0                                0          (exp: 0)
+11. Invalid toSlot                         ERROR      (exp: ERROR)
+12. Invalid fromSlot                       ERROR      (exp: ERROR)
+
+Conclusion: If almost everything says PASS, pushItems() works exactly as documented.

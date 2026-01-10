@@ -1,0 +1,54 @@
+=== Peripheral Information ===
+Type: minecraft:brewing_stand
+Direction: top
+Time: 2025-11-27 08:50:36
+
+=== Available Methods ===
+Total methods: 6
+
+1. size
+2. getItemDetail
+3. pullItems
+4. list
+5. getItemLimit
+6. pushItems
+
+=== Method Details ===
+
+Method: size
+  Result: 5
+
+Method: getItemDetail
+
+Method: pullItems
+
+Method: list
+  Inventory contents:
+    Slot 1:
+      Name: minecraft:potion
+      Count: 1
+      Max: unknown
+    Slot 2:
+      Name: minecraft:potion
+      Count: 1
+      Max: unknown
+    Slot 3:
+      Name: minecraft:potion
+      Count: 1
+      Max: unknown
+    Slot 4:
+      Name: minecraft:glowstone_dust
+      Count: 1
+      Max: unknown
+    Slot 5:
+      Name: minecraft:blaze_powder
+      Count: 63
+      Max: unknown
+
+Method: getItemLimit
+
+Method: pushItems
+
+=== Detailed Slot Inspection ===
+Inventory size: 5
+
